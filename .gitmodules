@@ -4,3 +4,9 @@
 [submodule "RegisMate-A-Sleek-Registration-Form-with-HTML-and-CSS"]
 	path = RegisMate-A-Sleek-Registration-Form-with-HTML-and-CSS
 	url = https://github.com/nishanthan-k/RegisMate-A-Sleek-Registration-Form-with-HTML-and-CSS
+[submodule "Color-Makers"]
+	path = Color-Makers
+	url = https://github.com/nishanthan-k/Color-Makers
+[submodule "Cat-Photo-App"]
+	path = Cat-Photo-App
+	url = https://github.com/nishanthan-k/Cat-Photo-App
